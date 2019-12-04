@@ -1,7 +1,15 @@
-# Diamond Chart
+# Skeleton Kibana Plugin Project
 
-This is a diamond shaped chart used in the iSenpai SCC project. This project provides a means
-to develop and generate all fragments needed to install the chart within a kibana environment.
+This is a skeleton project to aid in developing kibana plugins. This offers many paths of development 
+to help speed up iterations and dev cycles.
+
+For the skeleton project:
+
+IF YOU WISH TO RENAME YOUR PLUGIN
+
+- In the plugin folder rename all applicable folders etc named 'chart' to your name of choice
+- In the scripts folder: search for all occurrences of 'chart' and replace with desired name
+- Update the README and any other docs.
 
 ## Development
 ---
@@ -21,16 +29,6 @@ Plugins:
 
 - ms-vscode.vscode-typescript-tslint-plugin (Auto fix/sort imports and common linting problems)
 - ms-azuretools.vscode-docker (View and manage docker containers)
-
-## Skeleton Project
-
-For the skeleton project:
-
-IF YOU WISH TO RENAME YOUR PLUGIN
-
-- In the plugin folder rename all applicable folders etc named 'chart' to your name of choice
-- In the scripts folder: search for all occurrences of 'chart' and replace with desired name
-- Update the README and any other docs.
 
 ### *Visualization*
 
