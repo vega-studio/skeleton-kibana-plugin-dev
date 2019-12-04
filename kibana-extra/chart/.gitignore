@@ -1,0 +1,8 @@
+node_modules
+kibana/
+.cache
+.vscode
+.DS_Store
+build
+elastic-data
+.git

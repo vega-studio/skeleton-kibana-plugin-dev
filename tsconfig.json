@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "module": "commonjs",
+    "target": "es2018",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+
+    "paths": {
+      "src": ["./src"]
+    }
+  },
+  "exclude": [
+    "dist",
+    "node_modules",
+    "test",
+    "kibana"
+  ]
+}
