@@ -710,15 +710,12 @@
 
 "@elastic/eslint-config-kibana@link:kibana/packages/eslint-config-kibana":
   version "0.0.0"
-  uid ""
 
 "@elastic/eslint-import-resolver-kibana@link:kibana/packages/kbn-eslint-import-resolver-kibana":
   version "0.0.0"
-  uid ""
 
 "@kbn/plugin-helpers@link:kibana/packages/kbn-plugin-helpers":
   version "0.0.0"
-  uid ""
 
 "@seznam/compose-react-refs@1.0.2":
   version "1.0.2"
@@ -2080,10 +2077,10 @@ d3-color@1:
   resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-1.4.0.tgz#89c45a995ed773b13314f06460df26d60ba0ecaf"
   integrity sha512-TzNPeJy2+iEepfiL92LAAB7fvnp/dV2YwANPVHdDWmYMm23qIJBYww3qT8I8C1wXrmrg4UWs7BKc2tKIgyjzHg==
 
-d3-color@1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-1.2.3.tgz#6c67bb2af6df3cc8d79efcc4d3a3e83e28c8048f"
-  integrity sha512-x37qq3ChOTLd26hnps36lexMRhNXEtVxZ4B25rL0DVdDsGQIJGB18S7y9XDwlDD6MD/ZBzITCf4JjGMM10TZkw==
+d3-color@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-3.1.0.tgz#395b2833dfac71507f12ac2f7af23bf819de24e2"
+  integrity sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA==
 
 d3-ease@1.0.5:
   version "1.0.5"
